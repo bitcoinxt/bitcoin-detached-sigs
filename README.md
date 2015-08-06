@@ -1,2 +1,1 @@
-# bitcoin-detached-sigs
-Detached signatures for the deterministic build process
+Look at the branches to find the signatures.
